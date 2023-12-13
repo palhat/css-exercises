@@ -1,0 +1,19 @@
+.odd-p {
+    background-color: #e85d89;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#focus {
+    color: #1974e3;
+    font-size: 36px;
+}
+
+.odd-p.larger {
+    font-size: 24px;
+}
+
+#highlight {
+    background-color: #19e36a;
+    font-size: 24px;
+    font-weight: bold;
+}
